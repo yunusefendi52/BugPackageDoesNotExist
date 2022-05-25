@@ -48,7 +48,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Xamarin.PluginStreaming.Android" Version="1.0.25" />
+		<PackageReference Include="PluginStreaming" Version="1.0.27" />
+		<PackageReference Include="Xamarin.PluginStreaming.Android" Version="1.0.27" />
 		<PackageReference Include="Xamarin.RtmpEncoder.Android" Version="1.0.25" />
 	</ItemGroup>
 
